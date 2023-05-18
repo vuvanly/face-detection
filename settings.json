@@ -1,0 +1,9 @@
+{
+  "video_path": "Video",
+  "images_path": "Images",
+  "cropped_images_path": "CroppedImages",
+  "dataset_path": "dataset",
+  "trained_model_path": "model/train",
+  "validated_model_path": "model/val",
+  "model_path": "model/face_detection"
+}
